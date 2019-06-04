@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\HW4TDD\HW4TDD\obj\Debug\Stack.csprojAssemblyReference.cache
+C:\Users\User\source\repos\HW4TDD\HW4TDD\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HW4TDD\HW4TDD\bin\Debug\HW4TDD.exe.config
+C:\Users\User\source\repos\HW4TDD\HW4TDD\bin\Debug\HW4TDD.exe
+C:\Users\User\source\repos\HW4TDD\HW4TDD\bin\Debug\HW4TDD.pdb
+C:\Users\User\source\repos\HW4TDD\HW4TDD\obj\Debug\HW4TDD.exe
+C:\Users\User\source\repos\HW4TDD\HW4TDD\obj\Debug\HW4TDD.pdb
